@@ -18,7 +18,7 @@ header {
 
 a:hover {
     background-color: rgba(100, 255, 218, 0.15);
-    transition: 1s;
+    transition: 1s linear;
 }
 
 .nav-item {
@@ -36,7 +36,7 @@ a:hover {
     color: #64ffda;
     border-radius: 5px;
     font-weight: bold;
-    transition: 1s;
+    transition: 1s linear;
 }
 
 .nav-item #Resume {
@@ -48,7 +48,7 @@ a:hover {
     border: 1.5px #64ffda solid;
     border-radius: 5px;
     font-weight: bold;
-    transition: 1s;
+    transition: 1s linear;
 }
 
 .nav-item a:visited {
@@ -85,7 +85,7 @@ a:hover {
     font-weight: bold;
     border: 2px #64ffda solid;
     border-radius: 5px;
-    transition: 1s;
+    transition: 1s linear;
 }
 
 .intro a:visited {
