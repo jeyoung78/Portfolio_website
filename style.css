@@ -53,6 +53,7 @@ a:hover {
     text-decoration: none;
     color: #64ffda;
     font-weight: bold;
+    transition-delay: 1s;
 }
 
 .intro {
