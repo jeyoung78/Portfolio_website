@@ -36,7 +36,7 @@ a:hover {
     color: #64ffda;
     border-radius: 5px;
     font-weight: bold;
-    transition: background-color 2s ease-out 100ms
+    transition: color 2s ease-out 100ms
 }
 
 .nav-item #Resume {
