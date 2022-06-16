@@ -18,6 +18,7 @@ header {
 
 a:hover {
     background-color: rgba(100, 255, 218, 0.15);
+    transition-delay: 1s;
 }
 
 .nav-item {
