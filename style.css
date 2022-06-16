@@ -18,8 +18,6 @@ header {
 
 a:hover {
     background-color: rgba(100, 255, 218, 0.15);
-    -webkit-transition: background-color 1000ms linear;
-    -ms-transition: background-color 1000ms linear;
     transition: background-color 1000ms linear;
 }
 
