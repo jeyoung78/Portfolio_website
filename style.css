@@ -18,7 +18,6 @@ header {
 
 a:hover {
     background-color: rgba(100, 255, 218, 0.15);
-    transition-delay: 1s;
 }
 
 .nav-item {
@@ -34,7 +33,9 @@ a:hover {
     font-family: 'Smooch Sans', Calibri, 'Trebuchet MS', sans-serif;
     text-decoration: none;
     color: #64ffda;
+    border-radius: 5px;
     font-weight: bold;
+    transition-delay: 1s;
 }
 
 .nav-item #Resume {
@@ -46,6 +47,7 @@ a:hover {
     border: 1.5px #64ffda solid;
     border-radius: 5px;
     font-weight: bold;
+    transition-delay: 1s;
 }
 
 .nav-item a:visited {
